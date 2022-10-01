@@ -1,4 +1,5 @@
-### Hi there 👋
+### Oi, eu sou Lucas Gomes Santos
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pfxnikki&color=yellow" alt="Visualizações do perfil" /> </p>
 
 <!--
 **PFXNikki/PFXNikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
