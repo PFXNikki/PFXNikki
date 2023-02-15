@@ -1,10 +1,10 @@
 ### Oi, eu sou Lucas Gomes Santos, mas não é só isso que você precisa saber!!!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasb15&color=yellow" alt="Visualizações do perfil" /> </p>
 
-- :technologist: Sou um Desenvolvedor Junior Front-End.
+- :technologist: Sou um Desenvolvedor Junior Full Stack.
 - :mechanic: Atualmente estou trabalhando como Eletricista/Instrumentista Industrial.
 - :seedling: Estou aprendendo HTML, CSS e JavaScript, junto com seus respectivos frameworks.
-- :man_student: Sou estudande de Engenharia Mecatrônica.
+- :man_student: Sou estudante de Engenharia Mecatrônica.
 - :mailbox_closed: Site/Portfolio em Desenvolvimento....
 
 ## :hammer_and_wrench: Minhas Hard Skills:
@@ -14,7 +14,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![GitHub](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma) 
 
 
 <p align="esquerda">
