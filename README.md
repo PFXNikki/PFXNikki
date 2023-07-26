@@ -5,7 +5,7 @@
 - :mechanic: Atualmente estou trabalhando como Eletricista/Instrumentista Industrial.
 - :seedling: Estou aprendendo HTML, CSS e JavaScript, junto com seus respectivos frameworks.
 - :man_student: Sou estudante de Engenharia Mecatrônica.
-- :mailbox_closed: Site/Portfolio em Desenvolvimento....
+- :mailbox_closed: Site/Portfolio: https://meu-portfolio-pi-two.vercel.app/
 
 ## :hammer_and_wrench: Minhas Hard Skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
